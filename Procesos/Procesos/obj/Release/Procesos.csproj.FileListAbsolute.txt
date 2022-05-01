@@ -1,0 +1,7 @@
+C:\Users\jorge\OneDrive - Universidad Autónoma de Tamaulipas\Universidad\Programas\C#\Procesos\Procesos\bin\Release\Procesos.exe.config
+C:\Users\jorge\OneDrive - Universidad Autónoma de Tamaulipas\Universidad\Programas\C#\Procesos\Procesos\bin\Release\Procesos.exe
+C:\Users\jorge\OneDrive - Universidad Autónoma de Tamaulipas\Universidad\Programas\C#\Procesos\Procesos\bin\Release\Procesos.pdb
+C:\Users\jorge\OneDrive - Universidad Autónoma de Tamaulipas\Universidad\Programas\C#\Procesos\Procesos\obj\Release\Procesos.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive - Universidad Autónoma de Tamaulipas\Universidad\Programas\C#\Procesos\Procesos\obj\Release\Procesos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive - Universidad Autónoma de Tamaulipas\Universidad\Programas\C#\Procesos\Procesos\obj\Release\Procesos.exe
+C:\Users\jorge\OneDrive - Universidad Autónoma de Tamaulipas\Universidad\Programas\C#\Procesos\Procesos\obj\Release\Procesos.pdb

@@ -1,0 +1,18 @@
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\bin\Debug\net6.0-windows\Practica 1 Unidad 1.exe
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\bin\Debug\net6.0-windows\Practica 1 Unidad 1.deps.json
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\bin\Debug\net6.0-windows\Practica 1 Unidad 1.runtimeconfig.json
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\bin\Debug\net6.0-windows\Practica 1 Unidad 1.dll
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\bin\Debug\net6.0-windows\ref\Practica 1 Unidad 1.dll
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\bin\Debug\net6.0-windows\Practica 1 Unidad 1.pdb
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.AssemblyInfoInputs.cache
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.AssemblyInfo.cs
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.dll
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\ref\Practica 1 Unidad 1.dll
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.pdb
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.genruntimeconfig.cache
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica_1_Unidad_1.Inicio.resources
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica 1 Unidad 1.csproj.GenerateResource.cache
+C:\Users\jorge\Desktop\Calificacion\Practica 1 Unidad 1\Practica 1 Unidad 1\obj\Debug\net6.0-windows\Practica_1_Unidad_1.Properties.Resources.resources
